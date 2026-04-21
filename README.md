@@ -1,4 +1,4 @@
-# Endogenous Growth Simulation Interactive Rome R&D Model Dashboard
+# Endogenous Growth Simulation Interactive Romer R&D Model Dashboard
 
  
 
