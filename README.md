@@ -33,7 +33,8 @@ where ***α*** is capital share and ***r*** is the interest rate.
 
 
 ## Actors of the Simulation Design: 
-➤ **Laborers:** The total workforce is split into two groups which are <br>
+➤ **Laborers:** The total workforce is split into two groups which are 
+
     -  **Production Workers:** These are the people who make the things we use every day. <br>
     -  **Researchers (R&D):** The Researchers are the people who come up with ideas and designs for things.
 
