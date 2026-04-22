@@ -33,7 +33,7 @@ The simulation replicates the "bridge" created in the paper to solve for the mar
 
 **Equilibrium Determination:** The code calculates the equilibrium based on the condition where the cost of R&D (wages) equals the value of a new invention (the present value of future monopolistic profits).
 
-**Growth Rate Calculation:** The final growth rate ($g^*$) is derived from the R&D labor multiplied by productivity: $g^* = \theta L_R$. The simulation specifically uses the formula:
+**Growth Rate Calculation:** The final growth rate (***g<sup>*</sup>***) is derived from the R&D labor multiplied by productivity: $g^* = \theta L_R$. The simulation specifically uses the formula:
 
 $$g^* = \theta L - \frac{1-\alpha}{\alpha} \left( \frac{\mu}{\mu - 1} \right) r$$
 
