@@ -66,5 +66,18 @@ A relatively high interest rate keeps growth only slightly above the baseline, s
  ## Demonstration - How the Simulation Works
  <img width="800" height="417" alt="Refer this Gif File Simulation Solow to Romer" src="https://github.com/user-attachments/assets/90684664-ddc1-457f-beca-f2abe4a55bda" />
 
+---
+
+# Note
+
+## How to Run on Visual Studio Code (VS Code)
+1.	Open the file in VS Code. Make sure you have the Jupyter extension installed (by Microsoft). If not, VS Code will prompt you to install it when you open a .ipynb file.
+2.	**Select a Kernel**. In the top-right corner, you'll see a button that says "Select Kernel" (or it may show a previously used kernel name). Click it. 
+3.	**Select "Python Environments…"** from the dropdown that appears.
+4.	Choose your **Python installation** (e.g., Python 3.12.0 or whichever version you have installed). Pick the one that has your required packages available.
+5.	Install dependencies if needed. This notebook requires numpy, matplotlib, and ipywidgets. Open a terminal in VS Code and run: <br>
+   pip install numpy matplotlib ipywidgets
+6.	Click on **Run All** using the ≫ Run All button at the top of the notebook toolbar
+
 
 
