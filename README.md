@@ -37,6 +37,10 @@ The simulation replicates the "bridge" created in the paper to solve for the mar
 
 $$g^* = \theta L - \frac{1-\alpha}{\alpha} \left( \frac{\mu}{\mu - 1} \right) r$$
 
+$$ 
+\boldsymbol{g^* = \theta L - \frac{1-\alpha}{\alpha} \left( \frac{\mu}{\mu - 1} \right) r} 
+$$
+
 where ***α*** is capital share and ***r*** is the interest rate.
 
 
