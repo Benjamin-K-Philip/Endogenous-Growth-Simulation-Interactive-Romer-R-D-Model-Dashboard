@@ -15,7 +15,7 @@ The simulation replicates the "bridge" created in the paper to solve for the mar
 
  ➤ **Growth Rate Calculation:** The final growth rate (***g<sup>*</sup>***) is derived from the R&D labor multiplied by productivity: ***g<sup>*</sup>*** = ***θ******L<sub>R</sub>***. The simulation specifically uses the formula:
 
-$$g^* = \theta L - \frac{1-\alpha}{\alpha} \left( \frac{\mu}{\mu - 1} \right) r$$
+****$$g^* = \theta L - \frac{1-\alpha}{\alpha} \left( \frac{\mu}{\mu - 1} \right) r$$****
 
 where ***α*** is capital share and ***r*** is the interest rate.
 
