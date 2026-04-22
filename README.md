@@ -9,7 +9,7 @@ The simulation represents the Romer endogenous growth model, whereby an economy 
 ## How the Simulation Works <br>
 The simulation replicates the "bridge" created in the paper to solve for the market equilibrium of R&D labor, which is typically considered too complex for undergraduate studies.
 
- ➤ **Labor Allocation Logic**: The core of the code divides the total labor force ($L$) into two sectors: Production Labor (***L<sub>Y</sub>***) and R&D Labor (***L<sub>R</sub>***).
+ ➤ **Labor Allocation Logic**: The core of the code divides the total labor force (***L***) into two sectors: Production Labor (***L<sub>Y</sub>***) and R&D Labor (***L<sub>R</sub>***).
 
  ➤ **Equilibrium Determination:** The code calculates the equilibrium based on the condition where the cost of R&D (wages) equals the value of a new invention (the present value of future monopolistic profits).
 
