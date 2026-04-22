@@ -71,13 +71,20 @@ A relatively high interest rate keeps growth only slightly above the baseline, s
 # Note
 
 ## How to Run on Visual Studio Code (VS Code)
-1.	Open the file in VS Code. Make sure you have the Jupyter extension installed (by Microsoft). If not, VS Code will prompt you to install it when you open a .ipynb file.
+1.	Open the file in VS Code. Make sure you have the Jupyter extension installed (by Microsoft). If not, VS Code will prompt you to install it when you open a **.ipynb file**.
 2.	**Select a Kernel**. In the top-right corner, you'll see a button that says "Select Kernel" (or it may show a previously used kernel name). Click it. 
 3.	**Select "Python Environments…"** from the dropdown that appears.
 4.	Choose your **Python installation** (e.g., Python 3.12.0 or whichever version you have installed). Pick the one that has your required packages available.
 5.	Install dependencies if needed. This notebook requires numpy, matplotlib, and ipywidgets. <br>
 **Open a terminal in VS Code and run:** pip install numpy matplotlib ipywidgets
 6.	Click on **Run All** using the ≫ Run All button at the top of the notebook toolbar
+<br><br>
+
+## How to Run on Google Colab
+1.	Go to colab.research.google.com and sign in with your Google account.
+2.	Open your notebook. Go to File → **Open Notebook** (or **press Ctrl + O**). Then select the Upload tab, and drag or browse for your **.ipynb file**.
+3.	Run all cells. Go to **Runtime → Run All** (or **press Ctrl + F9**)
+4.	Interact with the sliders that appear below the cell output once execution completes.
 
 
 
