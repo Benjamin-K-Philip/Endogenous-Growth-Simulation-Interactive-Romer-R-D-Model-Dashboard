@@ -22,12 +22,12 @@ where ***α*** is capital share and ***r*** is the interest rate.
  ➤ **Output Trajectory:** It uses this growth rate to project the path of Output (**_Y_**) over time on a log scale, comparing it against a baseline growth rate (typically 2%)
 
  ➤ **Parameters:** The parameters used in the simulation are the following 
-   - * ***θ***: R&D Productivity
-   - * ***L***: Total Labor
-   - * ***α***: Capital Share
-   - * ***μ***: Market Markup
-   - * ***r***: Interest Rate
-   - * ***T***: Time Horizon (Years)
+    * ***θ***: R&D Productivity
+    * ***L***: Total Labor
+    * ***α***: Capital Share
+    * ***μ***: Market Markup
+    * ***r***: Interest Rate
+    * ***T***: Time Horizon (Years)
 
 ---
 
