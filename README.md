@@ -41,3 +41,8 @@ where ***α*** is capital share and ***r*** is the interest rate.
 
 ---
 
+
+## Rules of the Simulation Design:
+Total labor has to be equal to the sum of labor in production (LY) and labor in R&D (LR) so we have to satisfy ***L<sub>Y</sub>*** + ***L<sub>R</sub>*** = ***L***.
+When Research and Development (R&D) productive(θ) increases then growth increases. A higher markup(μ) also boosts growth. Additionally lower interest rates(r) and a larger labor force (L) contribute to growth.
+The production labour is determined based on how value the R&D sector can create through innovation. This is how the model finds an equilibrium split between production and R&D.
