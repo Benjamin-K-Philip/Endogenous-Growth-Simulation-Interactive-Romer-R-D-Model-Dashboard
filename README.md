@@ -52,7 +52,15 @@ where ***α*** is capital share and ***r*** is the interest rate.
 ## Output 
 
 **Scenario 1:**  <br>
-A lower interest rate makes R&D more attractive, so more labour shifts into the R&D sector and the economy’s growth rate rises.With low interest rate, the simulated output path becomes much steeper than the baseline, although labour and R&D productivity still matter more for growth.
+A lower interest rate makes R&D more attractive, so more labour shifts into the R&D sector and the economy’s growth rate rises. With low interest rate, the simulated output path becomes much steeper than the baseline, although labour and R&D productivity still matter more for growth.
 <img width="1230" height="989" alt="image" src="https://github.com/user-attachments/assets/377f5034-efa9-4c32-8008-775c8b25ea0a" />
+<br><br><br>
+
+**Scenario 2:** <br>
+A relatively high interest rate keeps growth only slightly above the baseline, so the simulated output path is steeper. 
+Higher interest rate reduces the payoff to R&D, shifting labour toward production; its negative effect on growth is smaller than the impact of labour and productivity.
+
+ 
+
 
 
