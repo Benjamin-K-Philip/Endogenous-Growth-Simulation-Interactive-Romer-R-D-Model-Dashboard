@@ -75,8 +75,8 @@ A relatively high interest rate keeps growth only slightly above the baseline, s
 2.	**Select a Kernel**. In the top-right corner, you'll see a button that says "Select Kernel" (or it may show a previously used kernel name). Click it. 
 3.	**Select "Python Environments…"** from the dropdown that appears.
 4.	Choose your **Python installation** (e.g., Python 3.12.0 or whichever version you have installed). Pick the one that has your required packages available.
-5.	Install dependencies if needed. This notebook requires numpy, matplotlib, and ipywidgets. Open a terminal in VS Code and run: <br>
-   pip install numpy matplotlib ipywidgets
+5.	Install dependencies if needed. This notebook requires numpy, matplotlib, and ipywidgets. <br>
+**Open a terminal in VS Code and run:** pip install numpy matplotlib ipywidgets
 6.	Click on **Run All** using the ≫ Run All button at the top of the notebook toolbar
 
 
