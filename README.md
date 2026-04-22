@@ -60,7 +60,11 @@ A lower interest rate makes R&D more attractive, so more labour shifts into the 
 A relatively high interest rate keeps growth only slightly above the baseline, so the simulated output path is steeper. Higher interest rate reduces the payoff to R&D, shifting labour toward production; its negative effect on growth is smaller than the impact of labour and productivity.
 <img width="1236" height="918" alt="image" src="https://github.com/user-attachments/assets/59d76fe0-2788-49fa-a243-a23a78863c35" />
 
- 
+ ---
+
+
+ ## Demonstration - How the Simulation Works
+ <img width="800" height="417" alt="Refer this Gif File Simulation Solow to Romer" src="https://github.com/user-attachments/assets/90684664-ddc1-457f-beca-f2abe4a55bda" />
 
 
 
