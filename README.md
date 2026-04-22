@@ -81,7 +81,7 @@ A relatively high interest rate keeps growth only slightly above the baseline, s
 <br><br>
 
 ## How to Run on Google Colab
-1.	Go to colab.research.google.com and sign in with your Google account.
+1.	Go to **[Google Colab](https://colab.research.google.com/)** and sign in with your Google account.
 2.	Open your notebook. Go to File → **Open Notebook** (or **press Ctrl + O**). Then select the Upload tab, and drag or browse for your **.ipynb file**.
 3.	Run all cells. Go to **Runtime → Run All** (or **press Ctrl + F9**)
 4.	Interact with the sliders that appear below the cell output once execution completes.
