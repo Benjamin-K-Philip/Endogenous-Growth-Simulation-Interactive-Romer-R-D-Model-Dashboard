@@ -32,7 +32,7 @@ where ***α*** is capital share and ***r*** is the interest rate.
 ---
 
 
-## Actors of the Simulation Design: 
+## Actors of the Simulation Design
 ➤ **Laborers:** The total workforce is split into two groups which are: 
    - **Production Workers:** These are the people who make the things we use every day. 
    - **Researchers (R&D):** The Researchers are the people who come up with ideas and designs for things.
@@ -42,7 +42,16 @@ where ***α*** is capital share and ***r*** is the interest rate.
 ---
 
 
-## Rules of the Simulation Design:
+## Rules of the Simulation Design
   - Total labor has to be equal to the sum of labor in production (***L<sub>Y</sub>***) and labor in R&D (***L<sub>R</sub>***) so we have to satisfy ***L<sub>Y</sub>*** + ***L<sub>R</sub>*** = ***L***.
   - When Research and Development (**R&D**) productive(***θ***) increases then growth increases. A higher markup(***μ***) also boosts growth. Additionally lower interest rates(***r***) and a larger labor force (***L***) contribute to growth.
   - The production labour is determined based on how value the R&D sector can create through innovation. This is how the model finds an equilibrium split between production and R&D.
+
+---
+
+## Output 
+
+Scenario 1: 
+A lower interest rate makes R&D more attractive, so more labour shifts into the R&D sector and the economy’s growth rate rises.
+With low interest rate, the simulated output path becomes much steeper than the baseline, although labour and R&D productivity still matter more for growth
+<img width="1478" height="126" alt="image" src="https://github.com/user-attachments/assets/cfb94953-7493-436d-999b-f07482cddb23" />
