@@ -68,9 +68,9 @@ A relatively high interest rate keeps growth only slightly above the baseline, s
 
 ---
 
-# Note
+## Note
 
-## How to Run on Visual Studio Code (VS Code)
+### How to Run on Visual Studio Code (VS Code)
 1.	Open the file in VS Code. Make sure you have the Jupyter extension installed (by Microsoft). If not, VS Code will prompt you to install it when you open a **.ipynb file**.
 2.	**Select a Kernel**. In the top-right corner, you'll see a button that says "Select Kernel" (or it may show a previously used kernel name). Click it. 
 3.	**Select "Python Environments…"** from the dropdown that appears.
@@ -80,7 +80,7 @@ A relatively high interest rate keeps growth only slightly above the baseline, s
 6.	Click on **Run All** using the ≫ Run All button at the top of the notebook toolbar
 <br><br>
 
-## How to Run on Google Colab
+### How to Run on Google Colab
 1.	Go to **[Google Colab](https://colab.research.google.com/)** and sign in with your Google account.
 2.	Open your notebook. Go to File → **Open Notebook** (or **press Ctrl + O**). Then select the Upload tab, and drag or browse for your **.ipynb file**.
 3.	Run all cells. Go to **Runtime → Run All** (or **press Ctrl + F9**)
